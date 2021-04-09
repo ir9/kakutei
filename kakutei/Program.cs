@@ -19,4 +19,7 @@ namespace kakutei
 			Application.Run(new Form1());
 		}
 	}
+
 }
+
+
